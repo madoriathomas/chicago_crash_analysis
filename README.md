@@ -1,4 +1,5 @@
-# chicago_crash_analysis
+# Chicago Crash Analysis
+*By Madoria Thomas
 
 ## Outline
 

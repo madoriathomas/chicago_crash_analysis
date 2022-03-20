@@ -22,4 +22,4 @@
 ## Next Steps
 
 ***
-*For more information:*
+*For more information, please contact me at:*
